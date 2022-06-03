@@ -99,6 +99,8 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.4.1"
 
+    implementation 'com.google.android.exoplayer:exoplayer:2.17.1'
+
     testImplementation 'junit:junit:4.13.2'
 
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4:1.1.1'
